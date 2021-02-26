@@ -1,0 +1,16 @@
+.nav-bar {
+    background-color: #333333;
+    display: flex;
+    overflow: hidden;
+    padding: 14px 16px;
+    color: white;
+    font-size: large;
+    text-align: center;
+    text-decoration: auto;
+    align-self: center;
+}
+
+.nav-bar :hover{
+    background-color: rgb(54, 95, 138);
+    color: black;
+}
